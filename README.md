@@ -1,2 +1,2 @@
 # simonhartford.github.io
-Simon Hartford's website
+A website dedicated to my soon-to-be wife, whom I love very dearly
