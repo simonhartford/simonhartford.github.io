@@ -5,3 +5,11 @@ body {
   min-width: 100px;
   background-color: yellow;
 }
+.header a{
+  background-color: black;
+  color: white;
+}
+.header a:hover{
+  background-color: white;
+  color: black;
+}
